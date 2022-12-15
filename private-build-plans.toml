@@ -1,0 +1,33 @@
+[buildPlans.iosevka-wlvs]
+family = "Iosevka Wlvs"
+spacing = "normal"
+serifs = "sans"
+no-cv-ss = true
+export-glyph-names = "true"
+
+[buildPlans.iosevka-wlvs.variants.design]
+capital-q = "vertical-crossing"
+capital-z = "straight-serifless-with-horizontal-crossbar"
+f = "flat-hook-extended"
+y = "curly-turn"
+one = "base"
+two = "straight-neck"
+three = "flat-top"
+four = "semi-open-non-crossing"
+five = "vertical-upper-left-bar"
+six = "closed-contour"
+seven = "straight-crossbar"
+eight = "two-circles"
+nine = "closed-contour"
+asterisk = "penta-low"
+caret = "medium"
+paren = "flat-arc"
+brace = "curly-flat-boundary"
+ampersand = "upper-open"
+at = "short"
+cent = "open"
+percent = "rings-continuous-slash"
+question = "smooth"
+
+  [buildPlans.iosevka-wlvs.ligations]
+  inherits = "dlig"
